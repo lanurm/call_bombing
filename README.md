@@ -30,9 +30,9 @@ The primary impacts of call bombers include:
 - **Annoyance and Stress:** Continuous calls can cause significant stress and frustration for the recipient.
 - **Service Issues:** Repeated bombardment may result in service provider actions against the recipient or even lead to temporary suspension of service.
 
-##  3. Available Call Bombing Tools
+## 3. Available Call Bombing Tools
 
-### 3.1 CallSpoofv3
+### 3.1 [CallSpoofv3](https://github.com/samay825/CallSpoofv3)
 
 **Description:**
 CallSpoofv3 is a call spoofing tool designed for use with Termux, a terminal emulator for Android. This tool allows users to spoof caller IDs and make calls from any number, except for high authority numbers. It is intended for educational and prank purposes only.
@@ -44,50 +44,51 @@ CallSpoofv3 is a call spoofing tool designed for use with Termux, a terminal emu
 - **Supports All Carriers:** Works with various network operators.
 - **Termux Support:** Designed to run in the Termux environment.
 
+**Link to Repository:** [CallSpoofv3 GitHub Repository](https://github.com/samay825/CallSpoofv3)
 
-Link to Repository: [CallSpoofv3 GitHub Repository] (https://github.com/samay825/CallSpoofv3)
+### 3.2 [BOMBING](https://github.com/MrTusarRX/BOMBING)
 
-###3.2 BOMBING
-Description:
+**Description:**
 BOMBING is a script for sending large volumes of SMS and calls, available for Linux and Termux environments. It is designed for educational and prank purposes, and is not recommended for malicious use.
 
-Features:
+**Features:**
+- **Integrated APIs:** Includes various SMS and call APIs.
+- **High-Speed Bombing:** Capable of sending messages and calls quickly.
+- **International Bombing:** Supports global numbers, though API reliability may vary.
+- **Frequent Updates:** Regularly updated to maintain functionality.
+- **Easy Integration:** Simple to use and integrate into other scripts.
 
-Integrated APIs: Includes various SMS and call APIs.
-High-Speed Bombing: Capable of sending messages and calls quickly.
-International Bombing: Supports global numbers, though API reliability may vary.
-Frequent Updates: Regularly updated to maintain functionality.
-Easy Integration: Simple to use and integrate into other scripts.
-Usage Instructions:
-
-
-
-Link to Repository: [BOMBING GitHub Repository] (https://github.com/MrTusarRX/BOMBING)
+**Link to Repository:** [BOMBING GitHub Repository](https://github.com/MrTusarRX/BOMBING)
 
 ## 4. Security and Prevention
-4.1 Protecting Against Call Bombers
+
+### 4.1 Protecting Against Call Bombers
 To protect yourself from call bombers, consider the following best practices and tools:
 
-###4.1.1 Best Practices
-Do Not Disturb (DND): Register for DND services to block unwanted calls.
-Caller ID and Blocking: Use caller ID and call blocking features provided by telecom providers.
-Avoid Sharing Personal Numbers: Limit the exposure of your phone number.
-Monitor Activity: Keep an eye on unusual phone activity.
-###4.1.2 Tools and Services
-Spam Call Blockers: Use apps that can filter and block spam calls.
-Security Suites: Deploy comprehensive security suites with anti-spam features.
-VPN Services: Utilize VPN services to hide your IP and add an extra layer of security.
-4.2 Legal Measures
+#### 4.1.1 Best Practices
+- **Do Not Disturb (DND):** Register for DND services to block unwanted calls.
+- **Caller ID and Blocking:** Use caller ID and call blocking features provided by telecom providers.
+- **Avoid Sharing Personal Numbers:** Limit the exposure of your phone number.
+- **Monitor Activity:** Keep an eye on unusual phone activity.
+
+#### 4.1.2 Tools and Services
+- **Spam Call Blockers:** Use apps that can filter and block spam calls.
+- **Security Suites:** Deploy comprehensive security suites with anti-spam features.
+- **VPN Services:** Utilize VPN services to hide your IP and add an extra layer of security.
+
+### 4.2 Legal Measures
 Understanding legal options is crucial for addressing call bombing issues:
 
-####4.2.1 Reporting
-Service Providers: Report incidents to your telecom or service provider.
-Authorities: File complaints with local law enforcement or cybercrime units.
-Consumer Protection Agencies: Report to agencies that handle spamming and harassment issues.
-####4.2.2 Penalties and Consequences
-Fines: Perpetrators may face substantial fines.
-Imprisonment: In severe cases, imprisonment may be a consequence.
-Service Suspension: Service providers may suspend or terminate accounts involved in spamming.
-Legal Actions: Victims may pursue civil lawsuits for damages.
-##5. Conclusion
+#### 4.2.1 Reporting
+- **Service Providers:** Report incidents to your telecom or service provider.
+- **Authorities:** File complaints with local law enforcement or cybercrime units.
+- **Consumer Protection Agencies:** Report to agencies that handle spamming and harassment issues.
+
+#### 4.2.2 Penalties and Consequences
+- **Fines:** Perpetrators may face substantial fines.
+- **Imprisonment:** In severe cases, imprisonment may be a consequence.
+- **Service Suspension:** Service providers may suspend or terminate accounts involved in spamming.
+- **Legal Actions:** Victims may pursue civil lawsuits for damages.
+
+## 5. Conclusion
 Call bombers present a significant challenge in the digital age, with their potential for disruption and harm. While they can be used for pranks, their misuse can lead to severe privacy violations, service disruptions, and legal consequences. Understanding the mechanisms behind call bombers, utilizing preventive measures, and knowing the legal avenues for reporting and redress are essential for managing the risks associated with these tools. Responsible use of technology and proactive security measures are key to ensuring a safer digital environment for all.
