@@ -46,7 +46,7 @@ CallSpoofv3 is a call spoofing tool designed for use with Termux, a terminal emu
 
 **Usage Instructions:**
 
-####1. **Update Termux Packages:**
+###1. **Update Termux Packages:**
    ```bash
    pkg up -y
 Install Dependencies:
