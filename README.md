@@ -44,7 +44,7 @@ CallSpoofv3 is a call spoofing tool designed for use with Termux, a terminal emu
 - **Supports All Carriers:** Works with various network operators.
 - **Termux Support:** Designed to run in the Termux environment.
 
-**Link to Repository:** [CallSpoofv3 GitHub Repository](https://github.com/samay825/CallSpoofv3)
+
 
 ### 3.2 [BOMBING](https://github.com/MrTusarRX/BOMBING)
 
@@ -58,7 +58,7 @@ BOMBING is a script for sending large volumes of SMS and calls, available for Li
 - **Frequent Updates:** Regularly updated to maintain functionality.
 - **Easy Integration:** Simple to use and integrate into other scripts.
 
-**Link to Repository:** [BOMBING GitHub Repository](https://github.com/MrTusarRX/BOMBING)
+
 
 ## 4. Security and Prevention
 
