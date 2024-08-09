@@ -44,36 +44,8 @@ CallSpoofv3 is a call spoofing tool designed for use with Termux, a terminal emu
 - **Supports All Carriers:** Works with various network operators.
 - **Termux Support:** Designed to run in the Termux environment.
 
-**Usage Instructions:**
 
-###1. **Update Termux Packages:**
-   ```bash
-   pkg up -y
-Install Dependencies:
-
-bash
-Copy code
-pkg install git wget python -y
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/samay825/CallSpoofv3
-Navigate to Directory:
-
-bash
-Copy code
-cd CallSpoofv3
-Run the Script:
-
-bash
-Copy code
-python3 Run.py
-Get Subscription: Join the Telegram channel for subscription details here.
-
-Note: This tool is for educational purposes only. The developer is not responsible for any misuse or criminal activities.
-
-Link to Repository: CallSpoofv3 GitHub Repository
+Link to Repository: [CallSpoofv3 GitHub Repository] (https://github.com/samay825/CallSpoofv3)
 
 ###3.2 BOMBING
 Description:
@@ -88,41 +60,9 @@ Frequent Updates: Regularly updated to maintain functionality.
 Easy Integration: Simple to use and integrate into other scripts.
 Usage Instructions:
 
-For Termux:
 
-bash
-Copy code
-pkg install git
-pkg install python
-git clone https://github.com/MrTusarRX/BOMBING.git
-cd BOMBING
-chmod +x MrTusarRX.sh
-./MrTusarRX.sh
-For Linux:
 
-bash
-Copy code
-sudo apt install git
-git clone https://github.com/MrTusarRX/BOMBING.git
-cd BOMBING
-chmod +x MrTusarRX.sh
-sudo bash MrTusarRX.sh
-For macOS:
-
-bash
-Copy code
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew install git
-brew install python3
-sudo easy_install pip
-sudo pip install --upgrade pip
-git clone https://github.com/MrTusarRX/BOMBING.git
-cd BOMBING
-chmod +x MrTusarRX.sh
-sudo bash MrTusarRX.sh
-Note: The script should be used responsibly. Misuse may lead to the failure of APIs and is not condoned by the developers.
-
-Link to Repository: BOMBING GitHub Repository
+Link to Repository: [BOMBING GitHub Repository] (https://github.com/MrTusarRX/BOMBING)
 
 ## 4. Security and Prevention
 4.1 Protecting Against Call Bombers
@@ -133,7 +73,7 @@ Do Not Disturb (DND): Register for DND services to block unwanted calls.
 Caller ID and Blocking: Use caller ID and call blocking features provided by telecom providers.
 Avoid Sharing Personal Numbers: Limit the exposure of your phone number.
 Monitor Activity: Keep an eye on unusual phone activity.
-4.1.2 Tools and Services
+###4.1.2 Tools and Services
 Spam Call Blockers: Use apps that can filter and block spam calls.
 Security Suites: Deploy comprehensive security suites with anti-spam features.
 VPN Services: Utilize VPN services to hide your IP and add an extra layer of security.
